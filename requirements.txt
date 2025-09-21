@@ -1,0 +1,15 @@
+# Core Libraries
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning & Preprocessing
+scikit-learn
+
+# Deep Learning
+tensorflow>=2.12.0
+
+# Utilities
+jupyter
+notebook
